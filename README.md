@@ -2,7 +2,7 @@
 
 Check out the live version: https://martin-martin.github.io/freqenctree/
 
-And read more abou the project [on Medium](https://medium.com/@martin.breuss/3-word-frequenctrees-fec2684c217a#.sxkm0nvvd)
+And read more about the project [on Medium](https://medium.com/@martin.breuss/3-word-frequenctrees-fec2684c217a#.sxkm0nvvd).
 
 ## what
 Enter any text input (longer texts make it more interesting) and click the buttons.
